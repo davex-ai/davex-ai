@@ -8,11 +8,13 @@
 <!-- VISITOR BADGE + STATUS -->
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/davex-ai/count.svg)
+
+![Visitors](https://komarev.com/ghpvc/?username=davex-ai&style=flat&color=00fff0)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+AI+%2F+Systems+%2F+Infra;Building+real+things+that+run+in+production.;LLM+Infra+%E2%86%92+Data+Driven+Systems+%E2%86%92+3D+Simulations;FAANG-level+mindset.+Self-built+foundation.)](https://git.io/typing-svg)
 
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?davex-ai=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -135,13 +137,14 @@
 <tr>
 <td width="50%">
 
-### 🔮 LLM API Gateway
+### 🔮 Merq 
 > **Intelligent routing & tracking for LLM calls**
 
 - Multi-provider routing (OpenAI, Anthropic, Gemini)
 - Token usage tracking + cost analytics
 - Rate limiting, caching, fallback logic
-- Built for production at scale
+- Built for production at scale  
+- 💡 *Fun fact:* Inspired by Mercury (Hermes)—the swift messenger god who moved between worlds, carrying information between mortals and the divine.
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=00fff0)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi&logoColor=00fff0)
@@ -157,7 +160,8 @@
 - Multiplayer cursor tracking at scale
 - Room-based architecture with role control
 - WebSocket-powered ultra-low latency sync
-- CRDT-backed shared state (Yjs)
+- CRDT-backed shared state (Yjs)  
+- 💡 *Fun fact:* Derived from “Omniscience”—the idea of a divine entity that sees all timelines, possibilities, and outcomes simultaneously.
 
 ![WebSockets](https://img.shields.io/badge/-WebSockets-000?style=flat&logo=socketdotio&logoColor=00fff0)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=00fff0)
@@ -175,7 +179,8 @@
 - Repo intelligence via embeddings + retrieval
 - Generates interview-level Q&A automatically
 - SentenceTransformers-based pipeline
-- Heuristic fallback when LLM unavailable
+- Heuristic fallback when LLM unavailable  
+- 💡 *Fun fact:* In ancient Greek belief, Archons were cosmic administrators—intermediaries between divine will and structured reality.
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=00fff0)
 ![AI](https://img.shields.io/badge/-RAG%20Systems-000?style=flat&logo=openai&logoColor=00fff0)
@@ -191,7 +196,8 @@
 - Concurrent job scheduler system
 - Thread pool execution + retries
 - REST API + dashboard
-- Lightweight cron/Airflow alternative
+- Lightweight cron/Airflow alternative  
+- 💡 *Fun fact:* Inspired by ancient cosmology where celestial orbits were seen as divine paths governing time, order, and fate.
 
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk&logoColor=00fff0)
 ![Backend](https://img.shields.io/badge/-Backend%20Systems-000?style=flat&logo=spring&logoColor=00fff0)
@@ -209,7 +215,8 @@
 - AES-256-GCM encryption
 - PBKDF2-HMAC key derivation
 - Secure local vault system
-- Zero-knowledge architecture
+- Zero-knowledge architecture  
+- 💡 *Fun fact:* “Delta” symbolizes change, and in mythic alchemy it represents transformation—where chaos is refined into creation inside a sacred forge.
 
 ![Security](https://img.shields.io/badge/-Security-000?style=flat&logo=hackaday&logoColor=00fff0)
 ![Encryption](https://img.shields.io/badge/-Encryption-000?style=flat&logo=letsencrypt&logoColor=00fff0)
@@ -225,7 +232,8 @@
 - Auto-generates polished GitHub READMEs
 - Adds structure, badges, and storytelling
 - CLI-based developer tool
-- Turns raw repos into portfolio-ready projects
+- Turns raw repos into portfolio-ready projects  
+- 💡 *Fun fact:* Inspired by ancient Mesopotamian scribes who were believed to “bind reality” by recording the will of kings and gods into clay tablets.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=00fff0)
 ![CLI](https://img.shields.io/badge/-CLI-000?style=flat&logo=gnubash&logoColor=00fff0)
@@ -234,7 +242,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🎓 Certifications
@@ -358,14 +365,13 @@
 </div>
 
 ---
-
 ## 🏆 Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=davex-ai&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-trophies.vercel.app/?username=davex-ai&margin-w=15&margin-h=15&theme=darkhub" alt="trophy" />
+  
 </div>
+
 
 ---
 
