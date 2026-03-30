@@ -14,7 +14,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+AI+%2F+Systems+%2F+Infra;Building+real+things+that+run+in+production.;LLM+Infra+%E2%86%92+Data+Driven+Systems+%E2%86%92+3D+Simulations;FAANG-level+mindset.+Self-built+foundation.)](https://git.io/typing-svg)
 
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?davex-ai=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -364,6 +363,18 @@
 
 </div>
 
+<div align="center">
+
+```diff
++ ██████╗  █████╗ ██╗   ██╗███████╗
++ ██╔══██╗██╔══██╗██║   ██║██╔════╝
++ ██║  ██║███████║██║   ██║█████╗  
+- ██║  ██║██╔══██║╚██╗ ██╔╝██╔══╝  
+- ██████╔╝██║  ██║ ╚████╔╝ ███████╗
+- ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝
+```
+
+
 ---
 ## 🏆 Trophies
 
@@ -371,7 +382,6 @@
   <img src="https://github-trophies.vercel.app/?username=davex-ai&margin-w=15&margin-h=15&theme=darkhub" alt="trophy" />
   
 </div>
-
 
 ---
 
