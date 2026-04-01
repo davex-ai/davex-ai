@@ -345,10 +345,8 @@
 ## 📊 GitHub Intelligence
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davex-ai&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&icon_color=00fff0&border_color=00fff022&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davex-ai&layout=compact&theme=dark&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&border_color=00fff022&langs_count=8" />
-
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=davex-ai&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&icon_color=00fff0&border_color=00fff022&count_private=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davex-ai&layout=compact&theme=dark&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&border_color=00fff022&langs_count=8" />
 </div>
 
 <div align="center">
