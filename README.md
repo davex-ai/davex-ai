@@ -11,7 +11,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=davex-ai&style=flat&color=00fff0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+AI+%2F+Systems+%2F+Infra;Building+real+things+that+run+in+production.;LLM+Infra+%E2%86%92+Data+Driven+Systems+%E2%86%92+3D+Simulations;FAANG-level+mindset.+Self-built+foundation.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+AI+%2F+Systems+%2F+Infra;Building+real+things+that+run+in+production.;LLM+Infra+%E2%86%92+Data+Driven+Systems+%E2%86%92+3D+Simulations;FAANG-level+mindset.+Self-built+foundation.;Serial+Polymath+Developer)](https://git.io/typing-svg)
 
 </div>
 
